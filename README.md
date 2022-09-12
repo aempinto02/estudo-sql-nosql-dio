@@ -2,7 +2,7 @@
 
 Quando precisamos escolher uma base de dados para armazenar as informações de um sistema, uma das nossas maiores decisões deve ser entre uma estrutura de dados relacional (SQL) e não-relacional (NoSQL). Ambas são opções viáveis, no entanto, existem certas distinções que devemos ter em mente para tomarmos a decisão certa.
 
-> SQL
+## SQL
 
 
 Structured Query Language ou SQL é a linguagem mais conhecida do mundo e também a mais popular. É utilizada para executar comandos em Banco de Dados Relacionais, isto é, baseado em tabelas. É por meio dela que criamos databases, tabelas, colunas, indices, garantimos e revogamos privilégios a usuários e consultamos os dados armazenados no banco de dados.
@@ -17,6 +17,7 @@ Linguagem de Definição de Dados ou DDL são comandos que permitem ao usuário 
 - Os principais comandos DDL são:
 
 > CREATE
+
 Comando utilizado para criar a estrutura dos dados e tabelas.
 
 ```
