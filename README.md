@@ -48,7 +48,7 @@ Comando utilizado para excluir estrutura de tabelas.
 DROP TABLE nome_tabela;
 ```
 
-> DML
+## DML
 Linguagem de Manipulação de Dados ou DML são comandos utilizados para a recuperação, inclusão, remoção e modificação de informações em bancos de dados.​Os principais comandos DML são:
 
 - INSERT
@@ -76,7 +76,7 @@ Comando utilizado para excluir registro no banco de dados.
 DELETE FROM nome_tabela WHERE id = 20;
 ```
 
-> DCL
+## DCL
 Linguagem de Controle de Dados ou DCL são comandos utilizados para controlar o acesso e gerenciar permissões de usuários no banco de dados.
 Os principais comandos DCL são:
 
